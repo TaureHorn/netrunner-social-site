@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/social-site/static/css/main.b3443e6a.css",
+    "main.js": "/social-site/static/js/main.eac3a0b1.js",
+    "static/js/787.86d75510.chunk.js": "/social-site/static/js/787.86d75510.chunk.js",
+    "static/media/angel-wings_25op.png": "/social-site/static/media/angel-wings_25op.d64e832abff9d832ac38.png",
+    "index.html": "/social-site/index.html",
+    "main.b3443e6a.css.map": "/social-site/static/css/main.b3443e6a.css.map",
+    "main.eac3a0b1.js.map": "/social-site/static/js/main.eac3a0b1.js.map",
+    "787.86d75510.chunk.js.map": "/social-site/static/js/787.86d75510.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3443e6a.css",
+    "static/js/main.eac3a0b1.js"
+  ]
+}
